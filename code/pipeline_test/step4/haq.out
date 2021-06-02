@@ -1,0 +1,24 @@
+Loading data for cleanup of RAPID3:
+resolving scores for haq:
+(19, 22)
+(6, 22)
+resolve_fractional_score.py:133: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  pro_scores['score_updated_num'][row[0]] = np.nan
+Statistics for instrument:  haq
+---------------------------------------------
+Number of unique patients:  6
+  
+Number of unique practice:  5
+---------------------------------------------
+Date range:
+2016-01-04
+2018-03-28
+---------------------------------------------
+Score range:
+0.0
+2.0
+---------------------------------------------
+Number of assessments:  6

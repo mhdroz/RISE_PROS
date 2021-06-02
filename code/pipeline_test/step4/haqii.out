@@ -1,0 +1,17 @@
+Loading data for cleanup of RAPID3:
+resolving scores for haqii:
+(0, 22)
+(0, 22)
+Statistics for instrument:  haqii
+---------------------------------------------
+Number of unique patients:  0
+  
+Number of unique practice:  0
+---------------------------------------------
+Date range:
+Traceback (most recent call last):
+  File "resolve_fractional_score.py", line 146, in <module>
+    get_subset_statistics(pro_scores, HP.assessment)
+  File "resolve_fractional_score.py", line 40, in get_subset_statistics
+    print(min(dates))
+ValueError: min() arg is an empty sequence

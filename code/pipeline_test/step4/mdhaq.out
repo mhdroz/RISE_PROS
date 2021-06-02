@@ -1,0 +1,24 @@
+Loading data for cleanup of RAPID3:
+resolving scores for mdhaq:
+(20, 22)
+(15, 22)
+resolve_fractional_score.py:139: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  pro_scores['score_updated_num'][row[0]] = np.nan
+Statistics for instrument:  mdhaq
+---------------------------------------------
+Number of unique patients:  15
+  
+Number of unique practice:  1
+---------------------------------------------
+Date range:
+2016-09-21
+2018-05-08
+---------------------------------------------
+Score range:
+0.0
+3.0
+---------------------------------------------
+Number of assessments:  15
