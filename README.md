@@ -2,6 +2,15 @@
 
 Code accompanying the following manuscript
 
+<br /><br />
+
+> __Usability note:__ This is experimental work, not a directly usable software library.
+The code was developed in the context of an academic research project, highly
+exploratory and iterative in nature. It is published here in the spirit of
+open science and reproducibility values.
+
+<br /><br />
+
 ## Getting started
 
 
