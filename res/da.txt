@@ -1,0 +1,766 @@
+800|radai|DA
+801|radai5|DA
+802|radai-5|DA
+803|das|DA
+804|das(crp)|DA
+805|das-crp|DA
+806|das28|DA
+807|das-28|DA
+808|das 28|DA
+809|sdai|DA
+810|cdai|DA
+811|pasii|DA
+812|pas-ii|DA
+813|pas-2|DA
+814|rapid2|DA
+815|rapid-2|DA
+816|rapid 2|DA
+817|rapid3|DA
+818|rapid-3|DA
+819|rapid 3|DA
+820|rapid4ptjc|DA
+821|rapid4|DA
+822|rapid-4|DA
+823|rapid 4|DA
+824|rapid4mdjc|DA
+825|rapid5|DA
+826|rapid-5|DA
+827|rapid 5|DA
+828|casi|DA
+829|pdas1|DA
+830|pdas2|DA
+831|moi-ra|DA
+850|remission|SEV
+851|low|SEV
+852|moderate|SEV
+853|high|SEV
+900|dr.|SUP
+901|physician|SUP
+1|.|DOT
+2|","|PUNCT
+3|;|PUNCT
+4|:|PUNCT
+5|!|PUNCT
+6|?|PUNCT
+7|patient|PT
+8|pt|PT
+9|pt's|PT
+10|care giver|CG
+11|caregiver|CG
+12|aunt|FAM
+13|aunt's|FAM
+14|aunts|FAM
+15|aunts'|FAM
+16|boyfriend|FAM
+17|boyfriend's|FAM
+18|boyfriends|FAM
+19|boyfriends'|FAM
+20|bride|FAM
+21|bride's|FAM
+22|bridegroom|FAM
+23|bridegroom's|FAM
+24|bridegrooms|FAM
+25|bridegrooms'|FAM
+26|brides|FAM
+27|brides'|FAM
+28|brother|FAM
+29|brother-in-law|FAM
+30|brother-in-law's|FAM
+31|brother-in-laws'|FAM
+32|brother's|FAM
+33|brothers|FAM
+34|brothers-in-law|FAM
+35|brothers'|FAM
+36|child|FAM
+37|child's|FAM
+38|children|FAM
+39|childs|FAM
+40|childs'|FAM
+41|cousin|FAM
+42|cousin's|FAM
+43|cousins|FAM
+44|cousins'|FAM
+45|dad|FAM
+46|dad's|FAM
+47|dads|FAM
+48|dads'|FAM
+49|daughter|FAM
+50|daughter-in-law|FAM
+51|daughter-in-law's|FAM
+52|daughter-in-laws'|FAM
+53|daughter's|FAM
+54|daughters|FAM
+55|daughters-in-law|FAM
+56|daughters'|FAM
+57|family|FAM
+58|family member|FAM
+59|father|FAM
+60|father-in-law|FAM
+61|father-in-law's|FAM
+62|father-in-laws'|FAM
+63|father's|FAM
+64|fathers|FAM
+65|fathers-in-law|FAM
+66|fathers'|FAM
+67|fiance|FAM
+68|fiance's|FAM
+69|fiancee|FAM
+70|fiancee's|FAM
+71|fiancees|FAM
+72|fiancees'|FAM
+73|fiances|FAM
+74|fiances'|FAM
+75|girlfriend|FAM
+76|girlfriend's|FAM
+77|girlfriends|FAM
+78|girlfriends'|FAM
+79|godchild|FAM
+80|godchild's|FAM
+81|godchildren|FAM
+82|godchilds|FAM
+83|godchilds'|FAM
+84|goddaughter|FAM
+85|goddaughter's|FAM
+86|goddaughters|FAM
+87|goddaughters'|FAM
+88|godfather|FAM
+89|godfather's|FAM
+90|godfathers|FAM
+91|godfathers'|FAM
+92|godmother|FAM
+93|godmother's|FAM
+94|godmothers|FAM
+95|godmothers'|FAM
+96|godson|FAM
+97|godson's|FAM
+98|godsons|FAM
+99|godsons'|FAM
+100|grandchild|FAM
+101|grandchild's|FAM
+102|grandchilds|FAM
+103|grandchilds'|FAM
+104|granddad|FAM
+105|granddad's|FAM
+106|granddads|FAM
+107|granddads'|FAM
+108|granddaughter|FAM
+109|granddaughter's|FAM
+110|granddaughters|FAM
+111|granddaughters'|FAM
+112|grandfather|FAM
+113|grandfather's|FAM
+114|grandfathers|FAM
+115|grandfathers'|FAM
+116|grandma|FAM
+117|grandma's|FAM
+118|grandmas|FAM
+119|grandmas'|FAM
+120|grandmother|FAM
+121|grandmother's|FAM
+122|grandmothers|FAM
+123|grandmothers'|FAM
+124|grandpa|FAM
+125|grandpa's|FAM
+126|grandparent|FAM
+127|grandpas|FAM
+128|grandpas'|FAM
+129|grandson|FAM
+130|grandson's|FAM
+131|grandsons|FAM
+132|grandsons'|FAM
+133|granny|FAM
+134|granny's|FAM
+135|grannys|FAM
+136|grannys'|FAM
+137|groom|FAM
+138|groom's|FAM
+139|grooms|FAM
+140|grooms'|FAM
+141|husband|FAM
+142|husband's|FAM
+143|husbands|FAM
+144|husbands'|FAM
+145|mom|FAM
+146|mom's|FAM
+147|moms|FAM
+148|moms'|FAM
+149|mother|FAM
+150|mother-in-law|FAM
+151|mother-in-law's|FAM
+152|mother-in-laws'|FAM
+153|mother's|FAM
+154|mothers|FAM
+155|mothers-in-law|FAM
+156|mothers'|FAM
+157|mum|FAM
+158|mum's|FAM
+159|mummy|FAM
+160|mummy's|FAM
+161|mummys|FAM
+162|mummys'|FAM
+163|mums|FAM
+164|mums'|FAM
+165|nephew|FAM
+166|nephew's|FAM
+167|nephews|FAM
+168|nephews'|FAM
+169|niece|FAM
+170|niece's|FAM
+171|nieces|FAM
+172|nieces'|FAM
+173|parent|FAM
+174|parent's|FAM
+175|parents|FAM
+176|parents-in-law|FAM
+177|parents-in-law's|FAM
+178|parents-in-laws'|FAM
+179|parents'|FAM
+180|sister|FAM
+181|sister-in-law|FAM
+182|sister-in-law's|FAM
+183|sister-in-laws'|FAM
+184|sister's|FAM
+185|sisters|FAM
+186|sisters-in-law|FAM
+187|sisters'|FAM
+188|son|FAM
+189|son-in-law|FAM
+190|son-in-law's|FAM
+191|son-in-laws'|FAM
+192|son's|FAM
+193|sons|FAM
+194|sons-in-law|FAM
+195|sons'|FAM
+196|spouse|FAM
+197|spouse's|FAM
+198|spouses|FAM
+199|spouses'|FAM
+200|uncle|FAM
+201|uncle's|FAM
+202|uncles|FAM
+203|uncles'|FAM
+204|wife|FAM
+205|wife's|FAM
+206|wifes|FAM
+207|wifes'|FAM
+208|wives|FAM
+209|h x|HX
+210|h/o|HX
+211|history|HX
+212|history of|HX
+213|ho|HX
+214|hx|HX
+215|past|HX
+216|has had|HX
+217|patient history|HX
+218|no|NEGEX
+219|strongly argues against|NEGEX
+220|(-)|NEGEX
+221|absence of|NEGEX
+222|absent|NEGEX
+223|adequate to rule her out|NEGEX
+224|adequate to rule her out for|NEGEX
+225|adequate to rule him out|NEGEX
+226|adequate to rule him out for|NEGEX
+227|adequate to rule out|NEGEX
+228|adequate to rule out for|NEGEX
+229|adequate to rule the patient out|NEGEX
+230|adequate to rule the patient out against|NEGEX
+231|adequate to rule the patient out for|NEGEX
+232|are ruled out|NEGEX
+233|argue against|NEGEX
+234|argues against|NEGEX
+235|argues strongly against|NEGEX
+236|arguing against|NEGEX
+237|be ruled out|NEGEX
+238|be ruled out for|NEGEX
+239|been ruled out|NEGEX
+240|being ruled out|NEGEX
+241|but no|NEGEX
+242|but no evidence of|NEGEX
+243|but no sign of|NEGEX
+244|but without|NEGEX
+245|can be ruled out|NEGEX
+246|can be ruled out for|NEGEX
+247|can rule her out|NEGEX
+248|can rule her out against|NEGEX
+249|can rule her out for|NEGEX
+250|can rule him out|NEGEX
+251|can rule him out against|NEGEX
+252|can rule him out for|NEGEX
+253|can rule out|NEGEX
+254|can rule out against|NEGEX
+255|can rule out for|NEGEX
+256|can rule the patient out|NEGEX
+257|can rule the patinet out against|NEGEX
+258|can rule the patinet out for|NEGEX
+259|can't remember|NEGEX
+260|cannot be|NEGEX
+261|cannot see|NEGEX
+262|checked for|NEGEX
+263|could be ruled out|NEGEX
+264|could be ruled out for|NEGEX
+265|declined|NEGEX
+266|declines|NEGEX
+267|demonstrate no|NEGEX
+268|demonstrates no|NEGEX
+269|denied|NEGEX
+270|denied any|NEGEX
+271|denies|NEGEX
+272|denies any|NEGEX
+273|denies ever having|NEGEX
+274|denies frank|NEGEX
+275|denies having|NEGEX
+276|deny|NEGEX
+277|denying|NEGEX
+278|did not rule out|NEGEX
+279|did rule her out|NEGEX
+280|did rule her out against|NEGEX
+281|did rule her out for|NEGEX
+282|did rule him out|NEGEX
+283|did rule him out against|NEGEX
+284|did rule him out for|NEGEX
+285|did rule out|NEGEX
+286|did rule out against|NEGEX
+287|did rule out for|NEGEX
+288|did rule the patient out|NEGEX
+289|did rule the patient out against|NEGEX
+290|did rule the patient out for|NEGEX
+291|do not suspect|NEGEX
+292|doesn't have|NEGEX
+293|doesn't know|NEGEX
+294|doubtful|NEGEX
+295|except|NEGEX
+296|extremely unlikely|NEGEX
+297|fails to reveal|NEGEX
+298|fails to show|NEGEX
+299|free|NEGEX
+300|free of|NEGEX
+301|goes against|NEGEX
+302|has been ruled out|NEGEX
+303|have been ruled out|NEGEX
+304|highly doubt|NEGEX
+305|highly unlikely given|NEGEX
+306|however|NEGEX
+307|however no|NEGEX
+308|inconsistant with|NEGEX
+309|is ruled out|NEGEX
+310|is to be ruled out|NEGEX
+311|is to be ruled out for|NEGEX
+312|less likely given|NEGEX
+313|less likey|NEGEX
+314|low likelihood|NEGEX
+315|low suspicion|NEGEX
+316|may be ruled out|NEGEX
+317|may be ruled out for|NEGEX
+318|might be ruled out|NEGEX
+319|might be ruled out for|NEGEX
+320|much less likely|NEGEX
+321|must be ruled out|NEGEX
+322|must be ruled out for|NEGEX
+323|must r/o|NEGEX
+324|neg|NEGEX
+325|negative|NEGEX
+326|negative for|NEGEX
+327|never developed|NEGEX
+328|never had|NEGEX
+329|no|NEGEX
+330|no abnormal|NEGEX
+331|no additional|NEGEX
+332|no cause of|NEGEX
+333|no certain evidence of|NEGEX
+334|no change|NEGEX
+335|no clear|NEGEX
+336|no complaints of|NEGEX
+337|no convincing|NEGEX
+338|no definite|NEGEX
+339|no definite change|NEGEX
+340|no definite evidence for|NEGEX
+341|no definite evidence of|NEGEX
+342|no definitive|NEGEX
+343|no definitive evidence of|NEGEX
+344|no discrete|NEGEX
+345|no e/o|NEGEX
+346|no evidence|NEGEX
+347|no evidence for|NEGEX
+348|no evidence of|NEGEX
+349|no evidence to suggest|NEGEX
+350|no evident|NEGEX
+351|no findings of|NEGEX
+352|no findings to indicate|NEGEX
+353|no focal|NEGEX
+354|no gross|NEGEX
+355|no increase|NEGEX
+356|no interval change|NEGEX
+357|no mammographic evidence of|NEGEX
+358|no new|NEGEX
+359|no new evidence|NEGEX
+360|no obvious|NEGEX
+361|no obvious sign of|NEGEX
+362|no other|NEGEX
+363|no other evidence|NEGEX
+364|no other evidence of|NEGEX
+365|no other sign of|NEGEX
+366|no radiographic evidence of|NEGEX
+367|no sign of|NEGEX
+368|no significant|NEGEX
+369|no significant change|NEGEX
+370|no significant interval change|NEGEX
+371|no signs|NEGEX
+372|no signs of|NEGEX
+373|no suggestion of|NEGEX
+374|no suspicion|NEGEX
+375|no suspicious|NEGEX
+376|no suspicious change|NEGEX
+377|nor|NEGEX
+378|not|NEGEX
+379|not appear|NEGEX
+380|not appreciate|NEGEX
+381|not associated with|NEGEX
+382|not been ruled out|NEGEX
+383|not cause|NEGEX
+384|not certain if|NEGEX
+385|not certain whether|NEGEX
+386|not complain of|NEGEX
+387|not demonstrate|NEGEX
+388|not drain|NEGEX
+389|not exhibit|NEGEX
+390|not extend|NEGEX
+391|not feel|NEGEX
+392|not had|NEGEX
+393|not have|NEGEX
+394|not know of|NEGEX
+395|not known to have|NEGEX
+396|not necessarily|NEGEX
+397|not see|NEGEX
+398|not to be|NEGEX
+399|other possibilities of|NEGEX
+400|otherwise no|NEGEX
+401|otherwise no evidence of|NEGEX
+402|ought to be ruled out|NEGEX
+403|ought to be ruled out for|NEGEX
+404|patient was not|NEGEX
+405|r/o|NEGEX
+406|ro|NEGEX
+407|rule her out|NEGEX
+408|rule her out for|NEGEX
+409|rule him out|NEGEX
+410|rule him out for|NEGEX
+411|rule out|NEGEX
+412|rule out for|NEGEX
+413|rule the patient out|NEGEX
+414|rule the patient out for|NEGEX
+415|ruled her out|NEGEX
+416|ruled her out against|NEGEX
+417|ruled her out for|NEGEX
+418|ruled him out|NEGEX
+419|ruled him out against|NEGEX
+420|ruled him out for|NEGEX
+421|ruled out|NEGEX
+422|ruled out against|NEGEX
+423|ruled out for|NEGEX
+424|ruled the patient out|NEGEX
+425|ruled the patient out against|NEGEX
+426|ruled the patient out for|NEGEX
+427|rules her out|NEGEX
+428|rules her out for|NEGEX
+429|rules him out|NEGEX
+430|rules him out for|NEGEX
+431|rules out|NEGEX
+432|rules out for|NEGEX
+433|rules the patient out|NEGEX
+434|rules the patient out for|NEGEX
+435|seems less likely|NEGEX
+436|seems unlikely|NEGEX
+437|seems unlikely given|NEGEX
+438|should be ruled out|NEGEX
+439|should be ruled out for|NEGEX
+440|shows no|NEGEX
+441|speaks against|NEGEX
+442|strongly argues against|NEGEX
+443|sufficient to rule her out|NEGEX
+444|sufficient to rule her out against|NEGEX
+445|sufficient to rule her out for|NEGEX
+446|sufficient to rule him out|NEGEX
+447|sufficient to rule him out against|NEGEX
+448|sufficient to rule him out for|NEGEX
+449|sufficient to rule out|NEGEX
+450|sufficient to rule out against|NEGEX
+451|sufficient to rule out for|NEGEX
+452|sufficient to rule the patient out|NEGEX
+453|sufficient to rule the patient out against|NEGEX
+454|sufficient to rule the patient out for|NEGEX
+455|there are no|NEGEX
+456|there is no|NEGEX
+457|there is no definite|NEGEX
+458|there is no evidence|NEGEX
+459|to exclude|NEGEX
+460|unlikely|NEGEX
+461|unlikley|NEGEX
+462|unremarkable for|NEGEX
+463|very low suspicion|NEGEX
+464|very unlikely|NEGEX
+465|was ruled out|NEGEX
+466|what must be ruled out is|NEGEX
+467|will be ruled out|NEGEX
+468|will be ruled out for|NEGEX
+469|with minimal|NEGEX
+470|with no|NEGEX
+471|with no definite|NEGEX
+472|with no evidence|NEGEX
+473|with no sign|NEGEX
+474|without|NEGEX
+475|without any|NEGEX
+476|without any evidence of|NEGEX
+477|without definite|NEGEX
+478|without difficulty|NEGEX
+479|without evidence|NEGEX
+480|without evidence for|NEGEX
+481|without evidence of|NEGEX
+482|without gross|NEGEX
+483|without indication of|NEGEX
+484|without obvious|NEGEX
+485|without sign of|NEGEX
+486|without significant|NEGEX
+487|without signs|NEGEX
+488|would argue against|NEGEX
+489|avoid|PREV
+490|avoidance|PREV
+491|counseled extensively|PREV
+492|educated about|PREV
+493|educated extensively|PREV
+494|educated regarding|PREV
+495|help prevent|PREV
+496|mitigate|PREV
+497|ppx|PREV
+498|prevent|PREV
+499|prevent future|PREV
+500|prevent recurrence|PREV
+501|preventative|PREV
+502|preventative measure|PREV
+503|preventative measures|PREV
+504|preventing|PREV
+505|prevention|PREV
+506|preventive|PREV
+507|preventive measures|PREV
+508|preventive strategies|PREV
+509|proph|PREV
+510|prophy|PREV
+511|prophylactic|PREV
+512|prophylaxis|PREV
+513|prophylaxis against|PREV
+514|prophylaxsis|PREV
+515|protect|PREV
+516|protect against|PREV
+517|protection|PREV
+518|protection against|PREV
+519|provided education|PREV
+520|re-educated about|PREV
+521|adverse outcomes|RISK
+522|also cannot exclude|RISK
+523|although|RISK
+524|and possible|RISK
+525|and probable|RISK
+526|broad ddx|RISK
+527|cannot exclude|RISK
+528|cannot r/o|RISK
+529|cannot rule out|RISK
+530|chance|RISK
+531|chances|RISK
+532|complication|RISK
+533|conceivable that|RISK
+534|concern for|RISK
+535|concern for possible|RISK
+536|could be|RISK
+537|could be due to|RISK
+538|could lead|RISK
+539|ddx|RISK
+540|ddx incl|RISK
+541|ddx include|RISK
+542|ddx included|RISK
+543|ddx includes|RISK
+544|ddx most likely|RISK
+545|ddx uti|RISK
+546|diff dx|RISK
+547|diff dx includes|RISK
+548|diffdx|RISK
+549|differential includes|RISK
+550|disease suspected|RISK
+551|doubt|RISK
+552|doubt infectious|RISK
+553|findings suggest|RISK
+554|findings suggestive of|RISK
+555|findings suspicious for|RISK
+556|further eval|RISK
+557|greater risk|RISK
+558|high likelihood|RISK
+559|high liklihood|RISK
+560|high risk|RISK
+561|higher likelihood|RISK
+562|higher risk|RISK
+563|highest risk|RISK
+564|highly suggestive|RISK
+565|implies|RISK
+566|implying|RISK
+567|increased risk|RISK
+568|indications risks|RISK
+569|inherent risks|RISK
+570|is suggested by|RISK
+571|is suspected|RISK
+572|less likely|RISK
+573|less likley|RISK
+574|likelihood|RISK
+575|may|RISK
+576|may be|RISK
+577|may be indicative of|RISK
+578|may have|RISK
+579|may indicate|RISK
+580|may suggest|RISK
+581|mdm ddx|RISK
+582|might|RISK
+583|might appear|RISK
+584|minimize risk|RISK
+585|most likely explanation|RISK
+586|likley|RISK
+587|much higher risk|RISK
+588|must be considered|RISK
+589|must consider|RISK
+590|not rule out|RISK
+591|not ruled out|RISK
+592|one would expect|RISK
+593|other possibilities include|RISK
+594|perhaps due to|RISK
+595|plausible|RISK
+596|poss|RISK
+597|possibe|RISK
+598|possibel|RISK
+599|possibility|RISK
+600|possibility of|RISK
+601|possibily|RISK
+602|possible|RISK
+603|possible etiologies include|RISK
+604|possiblity|RISK
+605|possibly|RISK
+606|possibly associated with|RISK
+607|possibly due to|RISK
+608|potential complications|RISK
+609|potential risks|RISK
+610|potential side effects|RISK
+611|presumed|RISK
+612|prob|RISK
+613|probability|RISK
+614|probable|RISK
+615|probably|RISK
+616|probably related to|RISK
+617|propensity|RISK
+618|question of|RISK
+619|question related to|RISK
+620|question whether there is|RISK
+621|questionable mild|RISK
+622|raises concern|RISK
+623|raises concern about|RISK
+624|raises possibility of|RISK
+625|raises the question|RISK
+626|raising question of|RISK
+627|raising the|RISK
+628|raising the possibility of|RISK
+629|raising the question|RISK
+630|represents some|RISK
+631|resolved|RISK
+632|risk|RISK
+633|risk factor|RISK
+634|risks alternatives|RISK
+635|risks associated|RISK
+636|risks include|RISK
+637|slightly higher risk|RISK
+638|source for|RISK
+639|source of|RISK
+640|sources for|RISK
+641|sources of|RISK
+642|suggest|RISK
+643|suggest possibility of|RISK
+644|suggest the possibility|RISK
+645|suggested by|RISK
+646|suggesting|RISK
+647|suggesting possibility of|RISK
+648|suggesting possible|RISK
+649|suggestion of|RISK
+650|suggestive|RISK
+651|suggestive of|RISK
+652|suggests either|RISK
+653|suggests possibility of|RISK
+654|suggests possible|RISK
+655|suggests the possibility|RISK
+656|suspect|RISK
+657|suspected|RISK
+658|suspicion|RISK
+659|suspicion for|RISK
+660|suspicion of|RISK
+661|theoretical risk|RISK
+662|there could be|RISK
+663|there may be|RISK
+664|trigger event for|RISK
+665|which raises the|RISK
+666|with possible|RISK
+667|with probable|RISK
+668|with question|RISK
+669|would be another consideration|RISK
+670|annual screening|SCREEN
+671|antibody test|SCREEN
+672|antibody_test|SCREEN
+673|assay|SCREEN
+674|assays|SCREEN
+675|assessment|SCREEN
+676|assessmet|SCREEN
+677|blood tests|SCREEN
+678|blood work|SCREEN
+679|cancer screening|SCREEN
+680|colon cancer screening|SCREEN
+681|confirmatory_test|SCREEN
+682|eval|SCREEN
+683|eval for|SCREEN
+684|evalaute|SCREEN
+685|evaluate for|SCREEN
+686|evaluation|SCREEN
+687|genetic screening|SCREEN
+688|genetic testing|SCREEN
+689|genotyping|SCREEN
+690|glucose tolerance test|SCREEN
+691|health care maintenance|SCREEN
+692|health maintenance|SCREEN
+693|lab testing|SCREEN
+694|lab tests|SCREEN
+695|laboratory testing|SCREEN
+696|panel|SCREEN
+697|prostate cancer screening|SCREEN
+698|retest|SCREEN
+699|retested|SCREEN
+700|retesting|SCREEN
+701|routine screening|SCREEN
+702|scan|SCREEN
+703|screen|SCREEN
+704|screened|SCREEN
+705|screening|SCREEN
+706|screening colonoscopy|SCREEN
+707|screening laboratories|SCREEN
+708|screening labs|SCREEN
+709|screening purposes|SCREEN
+710|screening test|SCREEN
+711|screening tests|SCREEN
+712|screening tool|SCREEN
+713|screenings|SCREEN
+714|screens|SCREEN
+715|studies|SCREEN
+716|study|SCREEN
+717|surveillance|SCREEN
+718|test|SCREEN
+719|test for|SCREEN
+720|test results|SCREEN
+721|tested|SCREEN
+722|testing|SCREEN
+723|testings|SCREEN
+724|tests|SCREEN
+725|these tests|SCREEN
+726|those results|SCREEN
+727|those tests|SCREEN
+728|yearly screening|SCREEN
