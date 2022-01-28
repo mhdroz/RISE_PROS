@@ -1,6 +1,10 @@
 # RISE_PROS
 
-Code accompanying the following manuscript
+Code accompanying the following manuscript **Development of a Natural Language Processing System for Extracting Rheumatoid Arthritis Outcomes from Clinical Notes using the National RISE Registry**
+
+<br /><br />
+
+![Pipeline](figures/pipeline.png)
 
 <br /><br />
 
@@ -15,20 +19,32 @@ open science and reproducibility values.
 
 
 ### Prerequisite
-What to install and where to find them --> list of packages
+
+The project was built using the Anaconda distribution of python 3.6.13. To run the code, clone this repository and use the Anaconda environment manager to create an environment using the `environment.yml` file to install the tagger code dependencies.
 
 ## How to run
-Describe each step for a successful run:
-1. preprocess notes
-2. tag terms
-3. link non-numerical scores to mentions
-4. clean
+To run the tagger, run a succession of 4 scripts to extract RA Outcome measures from the notes. In the src/ folder:
+1. In the src/ folder, update HP.py to fit your local variables
+2. The first step creates the PhraseMatcher using the terminologies found in res/ and extracts mentions and scores
+```
+python extract_pros.py > extract_pros.out
+```
+3. The second step resolves non-numerical scores
+```
+python get_score_resolution.py > get_score_resolution.out
+```
+4. The third step cleans up double occurences and ... (add more details)
+```
+python clean_extractions.py > clean_extractions.out
+```
+5. The final step cleans meaningless scores and outputs a table with mentions/score statistics as well as a figure with score distribution for a chosen instrument
+```
+python resolve_fractional_score.py
+```
+
 
 _include an example with dummy notes_
 
-```
-Running command
-```
 
 ## License
 
