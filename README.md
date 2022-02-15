@@ -43,7 +43,6 @@ python resolve_fractional_score.py
 ```
 
 
-_include an example with dummy notes_
 
 
 ## License
