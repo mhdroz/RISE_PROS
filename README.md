@@ -1,6 +1,6 @@
 # RISE_PROS
 
-Code accompanying the following manuscript **Development of a Natural Language Processing System for Extracting Rheumatoid Arthritis Outcomes from Clinical Notes using the National RISE Registry**
+Code accompanying the following manuscript [**Development of a Natural Language Processing System for Extracting Rheumatoid Arthritis Outcomes from Clinical Notes using the National RISE Registry**](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acr.24869)
 
 <br /><br />
 
